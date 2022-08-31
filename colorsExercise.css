@@ -8,7 +8,7 @@ h3{
     color: #00f;
 }
 h4{
-    color: #00ff00ff;
+    color: rgb(3, 122, 3);
 }
 h5{
     color: #ff0;
@@ -19,6 +19,30 @@ h6{
 p{
     color: rgba(255, 0, 0, 0.6)
 }
-li.hotPink{
+#hotPink{
     color: hotpink;
+}
+h1.red{
+    background-color: red;
+}
+h2.orange{
+    background-color: rgb(240, 78, 2);
+}
+h3.yellow{
+    background-color: #ffff00;
+}
+h4.green{
+    background-color: rgba(1, 156, 1, 0.6);
+}
+h5.blue{
+    background-color: #00f;
+}
+h6.indigo{
+    background-color: #4b0082;
+}
+p.violet{
+    background-color: violet;
+}
+#peachPuff{
+    background-color: peachpuff;
 }
